@@ -14,7 +14,11 @@ public class UtestRegisterData {
     private String operatingSystem;
     private String password;
     private String confirmPassword;
+    private String question;
 
+    public String getQuestion() {
+        return question;
+    }
 
     public String getName() {
         return name;
