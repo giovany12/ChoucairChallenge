@@ -1,7 +1,9 @@
 #Autor: Geovany Oquendo Murillo
 @stories
 Feature: Utest Register
-  As a user, I want to register on the Utest website
+  As a user,
+  I want to register on the Utest website
+  To access content for testers
 
   @scenario1
   Scenario Outline: Register on the Utest website
